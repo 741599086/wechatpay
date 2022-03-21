@@ -5,6 +5,6 @@ class Pay
 {
 	public function test()
 	{
-		return 'this is test';
+		return 'this is test pay';
 	}
 }
