@@ -1,5 +1,5 @@
 <?php
-namespace runxuekeji/wechatpay;
+namespace runxuekeji\wechatpay;
 
 class Pay
 {
