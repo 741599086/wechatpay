@@ -1,0 +1,16 @@
+{
+    "name": "runxuekeji/wechatpay",
+    "description": "wechat pay",
+    "autoload": {
+        "psr-4": {
+            "runxuekeji\\wechatpay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "邹意",
+            "email": "741599086@qq.com"
+        }
+    ],
+    "require": {}
+}
