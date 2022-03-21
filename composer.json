@@ -6,6 +6,7 @@
             "runxuekeji\\wechatpay\\": "src/"
         }
     },
+	"minimum-stability": "stable",
     "authors": [
         {
             "name": "邹意",
